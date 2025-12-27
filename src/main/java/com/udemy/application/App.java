@@ -20,7 +20,7 @@ import java.util.List;
 	
 	ela não tem conhecimento algum do banco de dados, fornecedor ou mesmo se a informação é
 	
-	gravada num banco.
+	gravada em um banco.
 */
 
 public class App {
